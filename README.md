@@ -17,9 +17,9 @@ Link: https://colab.research.google.com/drive/1ufSaxqhzt4AZO4PTkBnIluoCeoTHSOLs?
           
 ### 2nd step: 
           Install the following packages
-    pip install pycaret
-    pip install fastapi
-    pip install uvicorn
+              pip install pycaret
+              pip install fastapi
+              pip install uvicorn
     
 ### 3rd step: R
           Run the code. The model is already in data folder
